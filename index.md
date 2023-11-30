@@ -9,3 +9,5 @@ console.log("Smile");
 }
 
 ```
+- [ ] create repo
+- [ ] pet cat
